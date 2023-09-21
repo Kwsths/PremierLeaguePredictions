@@ -235,7 +235,7 @@ chart = (
         x=alt.X("value", type="quantitative", title=""),
         y=alt.Y("index", type="nominal", title=""),
         color=alt.Color("variable", scale=alt.Scale(domain=domain, range=range_), type="nominal", title=""),
-        order=alt.Order("variable", sort="ascending"),
+        # order=alt.Order("variable", sort="ascending"),
     )
 )
 
