@@ -9,7 +9,7 @@ st.set_page_config(
     page_icon="epl.jpg",
 )
 
-st.title("Premier League MatchDay 6 Predictions")
+st.title("Premier League Match Day 6 Predictions")
 
 DATA_URL = "https://www.football-data.co.uk/mmz4281/2324/E0.csv"
 
