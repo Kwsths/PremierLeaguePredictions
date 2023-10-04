@@ -9,9 +9,10 @@ st.set_page_config(
     page_icon="epl.jpg",
 )
 
-st.title("Premier League Match Day 6 Predictions")
+st.title("Premier League Predictions")
 
 DATA_URL = "https://www.football-data.co.uk/mmz4281/2324/E0.csv"
+FIXTURES_DATASET = 'PremierLeagueUpcomingFixtures.csv'
 
 
 @st.cache_data
@@ -19,7 +20,8 @@ def load_data():
     dataset = pd.read_csv(DATA_URL)
     premier_league_data = dataset[['Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG']]
     premier_league_data.rename(columns={"FTHG": "Home Goals", "FTAG": "Away Goals"}, inplace=True)
-    return premier_league_data
+    fixtures_dataset = pd.read_csv(FIXTURES_DATASET)
+    return premier_league_data, fixtures_dataset
 
 
 def create_overall_statistics(data, home_team, away_team):
@@ -79,13 +81,9 @@ def team_goals_probability(number_of_goals, poisson_dist):
 
 
 loading_state = st.text("Loading Previous results...")
-data = load_data()
+data, fixtures = load_data()
 loading_state.text("Load Complete")
 
-match_day = {1: "Liverpool - West Ham", 2: 'Brentford - Everton', 3: 'Crystal Palace - Fulham',
-             4: "Luton - Wolves", 5: "Man City - Nott\'m Forest", 6: "Burnley - Man United",
-             7: "Arsenal - Tottenham", 8: "Brighton - Bournemouth", 9: "Chelsea - Aston Villa",
-             10: "Sheffield United - Newcastle"}
 image_source = {"Liverpool": "https://resources.premierleague.com/premierleague/badges/rb/t14.svg",
                 "West Ham": "https://resources.premierleague.com/premierleague/badges/rb/t21.svg",
                 "Brentford": "https://resources.premierleague.com/premierleague/badges/rb/t94.svg",
@@ -127,6 +125,13 @@ team_color = {"Liverpool": "red",
               "Aston Villa": "#a4266f",
               "Sheffield United": "#e31343",
               "Newcastle": "#d5c0c5"}
+
+# make a selector for the match day
+choose_match_day = st.selectbox(label='Select a match day', options=fixtures['Round'].unique())
+
+# keep only the matches for the corresponding date
+available_matches = fixtures['Match'][fixtures['Round'] == choose_match_day]
+match_day = available_matches.to_dict()
 
 choose_match = st.selectbox(label='Select a match', options=match_day.values())
 home_team = choose_match.split("-")[0].strip()

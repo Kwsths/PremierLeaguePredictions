@@ -1,0 +1,311 @@
+,Round,Match
+0,ROUND 8,Luton - Tottenham
+1,ROUND 8,Burnley - Chelsea
+2,ROUND 8,Everton - Bournemouth
+3,ROUND 8,Fulham - Sheffield United
+4,ROUND 8,Man United - Brentford
+5,ROUND 8,Crystal Palace - Nott'm Forest
+6,ROUND 8,Brighton - Liverpool
+7,ROUND 8,West Ham - Newcastle
+8,ROUND 8,Wolves - Aston Villa
+9,ROUND 8,Arsenal - Man City
+10,ROUND 9,Liverpool - Everton
+11,ROUND 9,Bournemouth - Wolves
+12,ROUND 9,Brentford - Burnley
+13,ROUND 9,Man City - Brighton
+14,ROUND 9,Newcastle - Crystal Palace
+15,ROUND 9,Nott'm Forest - Luton
+16,ROUND 9,Chelsea - Arsenal
+17,ROUND 9,Sheffield United - Man United
+18,ROUND 9,Aston Villa - West Ham
+19,ROUND 9,Tottenham - Fulham
+20,ROUND 10,Crystal Palace - Tottenham
+21,ROUND 10,Chelsea - Brentford
+22,ROUND 10,Arsenal - Sheffield United
+23,ROUND 10,Bournemouth - Burnley
+24,ROUND 10,Wolves - Newcastle
+25,ROUND 10,West Ham - Everton
+26,ROUND 10,Aston Villa - Luton
+27,ROUND 10,Brighton - Fulham
+28,ROUND 10,Liverpool - Nott'm Forest
+29,ROUND 10,Man United - Man City
+30,ROUND 11,Fulham - Man United
+31,ROUND 11,Brentford - West Ham
+32,ROUND 11,Burnley - Crystal Palace
+33,ROUND 11,Everton - Brighton
+34,ROUND 11,Man City - Bournemouth
+35,ROUND 11,Sheffield United - Wolves
+36,ROUND 11,Newcastle - Arsenal
+37,ROUND 11,Nott'm Forest - Aston Villa
+38,ROUND 11,Luton - Liverpool
+39,ROUND 11,Tottenham - Chelsea
+40,ROUND 12,Wolves - Tottenham
+41,ROUND 12,Arsenal - Burnley
+42,ROUND 12,Crystal Palace - Everton
+43,ROUND 12,Man United - Luton
+44,ROUND 12,Bournemouth - Newcastle
+45,ROUND 12,Aston Villa - Fulham
+46,ROUND 12,Brighton - Sheffield United
+47,ROUND 12,Liverpool - Brentford
+48,ROUND 12,West Ham - Nott'm Forest
+49,ROUND 12,Chelsea - Man City
+50,ROUND 13,Brentford - Arsenal
+51,ROUND 13,Burnley - West Ham
+52,ROUND 13,Everton - Man United
+53,ROUND 13,Fulham - Wolves
+54,ROUND 13,Luton - Crystal Palace
+55,ROUND 13,Man City - Liverpool
+56,ROUND 13,Newcastle - Chelsea
+57,ROUND 13,Nott'm Forest - Brighton
+58,ROUND 13,Sheffield United - Bournemouth
+59,ROUND 13,Tottenham - Aston Villa
+60,ROUND 14,Arsenal - Wolves
+61,ROUND 14,Bournemouth - Aston Villa
+62,ROUND 14,Brentford - Luton
+63,ROUND 14,Burnley - Sheffield United
+64,ROUND 14,Chelsea - Brighton
+65,ROUND 14,Liverpool - Fulham
+66,ROUND 14,Man City - Tottenham
+67,ROUND 14,Newcastle - Man United
+68,ROUND 14,Nott'm Forest - Everton
+69,ROUND 14,West Ham - Crystal Palace
+70,ROUND 15,Aston Villa - Man City
+71,ROUND 15,Brighton - Brentford
+72,ROUND 15,Everton - Newcastle
+73,ROUND 15,Fulham - Nott'm Forest
+74,ROUND 15,Luton - Arsenal
+75,ROUND 15,Sheffield United - Liverpool
+76,ROUND 15,Tottenham - West Ham
+77,ROUND 15,Wolves - Burnley
+78,ROUND 15,Crystal Palace - Bournemouth
+79,ROUND 15,Man United - Chelsea
+80,ROUND 16,Aston Villa - Arsenal
+81,ROUND 16,Brighton - Burnley
+82,ROUND 16,Crystal Palace - Liverpool
+83,ROUND 16,Everton - Chelsea
+84,ROUND 16,Fulham - West Ham
+85,ROUND 16,Luton - Man City
+86,ROUND 16,Man United - Bournemouth
+87,ROUND 16,Sheffield United - Brentford
+88,ROUND 16,Tottenham - Newcastle
+89,ROUND 16,Wolves - Nott'm Forest
+90,ROUND 17,Arsenal - Brighton
+91,ROUND 17,Bournemouth - Luton
+92,ROUND 17,Brentford - Aston Villa
+93,ROUND 17,Burnley - Everton
+94,ROUND 17,Chelsea - Sheffield United
+95,ROUND 17,Liverpool - Man United
+96,ROUND 17,Man City - Crystal Palace
+97,ROUND 17,Newcastle - Fulham
+98,ROUND 17,Nott'm Forest - Tottenham
+99,ROUND 17,West Ham - Wolves
+100,ROUND 18,Aston Villa - Sheffield United
+101,ROUND 18,Crystal Palace - Brighton
+102,ROUND 18,Fulham - Burnley
+103,ROUND 18,Liverpool - Arsenal
+104,ROUND 18,Luton - Newcastle
+105,ROUND 18,Man City - Brentford
+106,ROUND 18,Nott'm Forest - Bournemouth
+107,ROUND 18,Tottenham - Everton
+108,ROUND 18,West Ham - Man United
+109,ROUND 18,Wolves - Chelsea
+110,ROUND 19,Arsenal - West Ham
+111,ROUND 19,Bournemouth - Fulham
+112,ROUND 19,Brentford - Wolves
+113,ROUND 19,Brighton - Tottenham
+114,ROUND 19,Burnley - Liverpool
+115,ROUND 19,Chelsea - Crystal Palace
+116,ROUND 19,Everton - Man City
+117,ROUND 19,Man United - Aston Villa
+118,ROUND 19,Newcastle - Nott'm Forest
+119,ROUND 19,Sheffield United - Luton
+120,ROUND 20,Aston Villa - Burnley
+121,ROUND 20,Crystal Palace - Brentford
+122,ROUND 20,Fulham - Arsenal
+123,ROUND 20,Liverpool - Newcastle
+124,ROUND 20,Luton - Chelsea
+125,ROUND 20,Man City - Sheffield United
+126,ROUND 20,Nott'm Forest - Man United
+127,ROUND 20,Tottenham - Bournemouth
+128,ROUND 20,West Ham - Brighton
+129,ROUND 20,Wolves - Everton
+130,ROUND 21,Arsenal - Crystal Palace
+131,ROUND 21,Bournemouth - Liverpool
+132,ROUND 21,Brentford - Nott'm Forest
+133,ROUND 21,Brighton - Wolves
+134,ROUND 21,Burnley - Luton
+135,ROUND 21,Chelsea - Fulham
+136,ROUND 21,Everton - Aston Villa
+137,ROUND 21,Man United - Tottenham
+138,ROUND 21,Newcastle - Man City
+139,ROUND 21,Sheffield United - West Ham
+140,ROUND 22,Aston Villa - Newcastle
+141,ROUND 22,Fulham - Everton
+142,ROUND 22,Luton - Brighton
+143,ROUND 22,Nott'm Forest - Arsenal
+144,ROUND 22,Tottenham - Brentford
+145,ROUND 22,West Ham - Bournemouth
+146,ROUND 22,Wolves - Man United
+147,ROUND 22,Crystal Palace - Sheffield United
+148,ROUND 22,Liverpool - Chelsea
+149,ROUND 22,Man City - Burnley
+150,ROUND 23,Arsenal - Liverpool
+151,ROUND 23,Bournemouth - Nott'm Forest
+152,ROUND 23,Brentford - Man City
+153,ROUND 23,Brighton - Crystal Palace
+154,ROUND 23,Burnley - Fulham
+155,ROUND 23,Chelsea - Wolves
+156,ROUND 23,Everton - Tottenham
+157,ROUND 23,Man United - West Ham
+158,ROUND 23,Newcastle - Luton
+159,ROUND 23,Sheffield United - Aston Villa
+160,ROUND 24,Aston Villa - Man United
+161,ROUND 24,Crystal Palace - Chelsea
+162,ROUND 24,Fulham - Bournemouth
+163,ROUND 24,Liverpool - Burnley
+164,ROUND 24,Luton - Sheffield United
+165,ROUND 24,Man City - Everton
+166,ROUND 24,Nott'm Forest - Newcastle
+167,ROUND 24,Tottenham - Brighton
+168,ROUND 24,West Ham - Arsenal
+169,ROUND 24,Wolves - Brentford
+170,ROUND 25,Brentford - Liverpool
+171,ROUND 25,Burnley - Arsenal
+172,ROUND 25,Everton - Crystal Palace
+173,ROUND 25,Fulham - Aston Villa
+174,ROUND 25,Luton - Man United
+175,ROUND 25,Man City - Chelsea
+176,ROUND 25,Newcastle - Bournemouth
+177,ROUND 25,Nott'm Forest - West Ham
+178,ROUND 25,Sheffield United - Brighton
+179,ROUND 25,Tottenham - Wolves
+180,ROUND 26,Arsenal - Newcastle
+181,ROUND 26,Aston Villa - Nott'm Forest
+182,ROUND 26,Bournemouth - Man City
+183,ROUND 26,Brighton - Everton
+184,ROUND 26,Chelsea - Tottenham
+185,ROUND 26,Crystal Palace - Burnley
+186,ROUND 26,Liverpool - Luton
+187,ROUND 26,Man United - Fulham
+188,ROUND 26,West Ham - Brentford
+189,ROUND 26,Wolves - Sheffield United
+190,ROUND 27,Brentford - Chelsea
+191,ROUND 27,Burnley - Bournemouth
+192,ROUND 27,Everton - West Ham
+193,ROUND 27,Fulham - Brighton
+194,ROUND 27,Luton - Aston Villa
+195,ROUND 27,Man City - Man United
+196,ROUND 27,Newcastle - Wolves
+197,ROUND 27,Nott'm Forest - Liverpool
+198,ROUND 27,Sheffield United - Arsenal
+199,ROUND 27,Tottenham - Crystal Palace
+200,ROUND 28,Arsenal - Brentford
+201,ROUND 28,Aston Villa - Tottenham
+202,ROUND 28,Bournemouth - Sheffield United
+203,ROUND 28,Brighton - Nott'm Forest
+204,ROUND 28,Chelsea - Newcastle
+205,ROUND 28,Crystal Palace - Luton
+206,ROUND 28,Liverpool - Man City
+207,ROUND 28,Man United - Everton
+208,ROUND 28,West Ham - Burnley
+209,ROUND 28,Wolves - Fulham
+210,ROUND 29,Arsenal - Chelsea
+211,ROUND 29,Brighton - Man City
+212,ROUND 29,Burnley - Brentford
+213,ROUND 29,Crystal Palace - Newcastle
+214,ROUND 29,Everton - Liverpool
+215,ROUND 29,Fulham - Tottenham
+216,ROUND 29,Luton - Nott'm Forest
+217,ROUND 29,Man United - Sheffield United
+218,ROUND 29,West Ham - Aston Villa
+219,ROUND 29,Wolves - Bournemouth
+220,ROUND 30,Aston Villa - Wolves
+221,ROUND 30,Bournemouth - Everton
+222,ROUND 30,Brentford - Man United
+223,ROUND 30,Chelsea - Burnley
+224,ROUND 30,Liverpool - Brighton
+225,ROUND 30,Man City - Arsenal
+226,ROUND 30,Newcastle - West Ham
+227,ROUND 30,Nott'm Forest - Crystal Palace
+228,ROUND 30,Sheffield United - Fulham
+229,ROUND 30,Tottenham - Luton
+230,ROUND 31,Arsenal - Luton
+231,ROUND 31,Bournemouth - Crystal Palace
+232,ROUND 31,Brentford - Brighton
+233,ROUND 31,Burnley - Wolves
+234,ROUND 31,Nott'm Forest - Fulham
+235,ROUND 31,West Ham - Tottenham
+236,ROUND 31,Chelsea - Man United
+237,ROUND 31,Newcastle - Everton
+238,ROUND 31,Liverpool - Sheffield United
+239,ROUND 31,Man City - Aston Villa
+240,ROUND 32,Aston Villa - Brentford
+241,ROUND 32,Brighton - Arsenal
+242,ROUND 32,Crystal Palace - Man City
+243,ROUND 32,Everton - Burnley
+244,ROUND 32,Fulham - Newcastle
+245,ROUND 32,Luton - Bournemouth
+246,ROUND 32,Man United - Liverpool
+247,ROUND 32,Sheffield United - Chelsea
+248,ROUND 32,Tottenham - Nott'm Forest
+249,ROUND 32,Wolves - West Ham
+250,ROUND 33,Arsenal - Aston Villa
+251,ROUND 33,Bournemouth - Man United
+252,ROUND 33,Brentford - Sheffield United
+253,ROUND 33,Burnley - Brighton
+254,ROUND 33,Chelsea - Everton
+255,ROUND 33,Liverpool - Crystal Palace
+256,ROUND 33,Man City - Luton
+257,ROUND 33,Newcastle - Tottenham
+258,ROUND 33,Nott'm Forest - Wolves
+259,ROUND 33,West Ham - Fulham
+260,ROUND 34,Aston Villa - Bournemouth
+261,ROUND 34,Brighton - Chelsea
+262,ROUND 34,Crystal Palace - West Ham
+263,ROUND 34,Everton - Nott'm Forest
+264,ROUND 34,Fulham - Liverpool
+265,ROUND 34,Luton - Brentford
+266,ROUND 34,Man United - Newcastle
+267,ROUND 34,Sheffield United - Burnley
+268,ROUND 34,Tottenham - Man City
+269,ROUND 34,Wolves - Arsenal
+270,ROUND 35,Aston Villa - Chelsea
+271,ROUND 35,Bournemouth - Brighton
+272,ROUND 35,Everton - Brentford
+273,ROUND 35,Fulham - Crystal Palace
+274,ROUND 35,Man United - Burnley
+275,ROUND 35,Newcastle - Sheffield United
+276,ROUND 35,Nott'm Forest - Man City
+277,ROUND 35,Tottenham - Arsenal
+278,ROUND 35,West Ham - Liverpool
+279,ROUND 35,Wolves - Luton
+280,ROUND 36,Arsenal - Bournemouth
+281,ROUND 36,Brentford - Fulham
+282,ROUND 36,Brighton - Aston Villa
+283,ROUND 36,Burnley - Newcastle
+284,ROUND 36,Chelsea - West Ham
+285,ROUND 36,Crystal Palace - Man United
+286,ROUND 36,Liverpool - Tottenham
+287,ROUND 36,Luton - Everton
+288,ROUND 36,Man City - Wolves
+289,ROUND 36,Sheffield United - Nott'm Forest
+290,ROUND 37,Aston Villa - Liverpool
+291,ROUND 37,Bournemouth - Brentford
+292,ROUND 37,Everton - Sheffield United
+293,ROUND 37,Fulham - Man City
+294,ROUND 37,Man United - Arsenal
+295,ROUND 37,Newcastle - Brighton
+296,ROUND 37,Nott'm Forest - Chelsea
+297,ROUND 37,Tottenham - Burnley
+298,ROUND 37,West Ham - Luton
+299,ROUND 37,Wolves - Crystal Palace
+300,ROUND 38,Arsenal - Everton
+301,ROUND 38,Brentford - Newcastle
+302,ROUND 38,Brighton - Man United
+303,ROUND 38,Burnley - Nott'm Forest
+304,ROUND 38,Chelsea - Bournemouth
+305,ROUND 38,Crystal Palace - Aston Villa
+306,ROUND 38,Liverpool - Wolves
+307,ROUND 38,Luton - Fulham
+308,ROUND 38,Man City - West Ham
+309,ROUND 38,Sheffield United - Tottenham
